@@ -13,14 +13,16 @@
 
 ---
 
-## 📥 Где скачать клиент Amnezia?
+## 📥 Где скачать клиент Amnezia? И ещё надо скачать новый обходчик Cloudflare/WARP.
 
 Для работы сгенерированных конфигураций вам понадобится специальный клиент **AmneziaVpn-AmneziaWG** (обычный WireGuard не подойдет, так как он не поддерживает параметры маскировки). 
 
 Скачайте и установите актуальную версию для вашей системы:
+* ** Новый скрипт по обходу через ** zapret: (https://github.com/BearMarstar/Bypass-Cloudflare-WARP-v3/)
 * **Официальный сайт:** [amnezia.org](https://amnezia.org/) *(Может быть заблокирован некоторыми провайдерами)*
 * **Официальное зеркало сайта:** [storage.googleapis.com/amnezia/...](https://storage.googleapis.com/amnezia/amnezia.org)
 * **Официальный GitHub (Зеркало):** [AmneziaVPN Releases](https://github.com/amnezia-vpn/amnezia-client/releases) *(Рекомендуется. Всегда доступно из РФ, скачивайте файлы `.exe` или `.msi` актуального релиза)*
+
 
 ---
 
